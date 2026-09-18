@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Carbon Footprint Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>🌍 Carbon Footprint Calculator</h1>
+
+<div class="card">
+    <label>Electricity usage (kWh/month)</label>
+    <input type="number" id="electricity">
+
+    <label>Driving distance (km/month)</label>
+    <input type="number" id="driving">
+
+    <label>Flights taken (per year)</label>
+    <input type="number" id="flying">
+
+    <label>Meat meals (per week)</label>
+    <input type="number" id="eating">
+
+    <button onclick="calculate()">Calculate</button>
+</div>
+
+<h2 id="result"></h2>
+
+<div id="precautions"></div>
+
+<script src="script.js"></script>
+</body>
+</html>

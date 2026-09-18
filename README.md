@@ -36,6 +36,13 @@ The calculator uses approximate emission factors for electricity, transportation
 ## 🎯 Purpose
 
 The project aims to create awareness about individual carbon emissions and encourage environmentally responsible choices.
+## 📸 Screenshots
+
+### 1. Carbon Footprint Calculator
+![Calculator](Carbob-Footprint-Calculator.png)
+
+### 2. Carbon Footprint Result
+![Result](Carbob-Footprint-Calculator2.png)
 
 ## 👩‍💻 Author
 
